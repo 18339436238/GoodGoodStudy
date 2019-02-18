@@ -85,6 +85,21 @@ public class Main {
         // 3.版本库: 版本回退，
 
         // 删除文件
+        // git rm 文件
+
+        // 远程仓库
+        // 添加远程仓库
+        // git remote add 仓库名 仓库地址
+
+        // 把本地仓库推送到远程仓库
+        // git push github master
+
+        // 第一次如果push失败
+        // 解决方案
+        // git pull
+        // git pull github master
+        // git pull github master --allow-unrelated-histories
+
 
     }
 }
