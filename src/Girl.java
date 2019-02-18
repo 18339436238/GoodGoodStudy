@@ -20,4 +20,7 @@ private int age;
     public void shoping(){
         System.out.println(name+"购物");
     }
+    public void repose(){
+        System.out.println(name+"休息");
+    }
 }
