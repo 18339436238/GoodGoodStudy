@@ -23,4 +23,7 @@ private int age;
     public void repose(){
         System.out.println(name+"休息");
     }
+    public void playGame(){
+        System.out.println("玩游戏");
+    }
 }
